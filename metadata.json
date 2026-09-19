@@ -1,0 +1,6 @@
+{
+  "name": "Huayu Four Skills - Chinese Learning",
+  "description": "Comprehensive Chinese language learning app covering the four core skills: Writing (stroke orders & Hanzi canvas), Listening (tone training & comprehension), Speaking (pronunciation & AI conversation), and Reading (graded stories & vocabulary).",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
